@@ -1,0 +1,343 @@
+
+
+.hero-section{
+   
+   height: 380px;
+   object-fit: contain;
+   position: relative;
+
+}
+
+.bar{
+   display: flex;
+   position: absolute;
+   background-color: rgb(241, 237, 237);
+   top: 300px;
+   left: 130px;
+   right: 130px;
+   color: black;
+   align-items: center;
+   padding: 8px 40px 8px 40px;
+   justify-content: center;
+   
+   
+}
+.img{
+   width: 100%;
+   height: 100%;
+   
+}
+
+.bigbang{
+   
+   
+  
+   height: 400px;
+   width: 250px;
+   
+   background-color: lightgray;
+}
+
+.roow1{
+
+   width: 250px;;
+   height: 40px;
+   
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   color: black;
+   padding:0px 0px 0px 0px;
+   
+}
+.gj:hover{
+   cursor: pointer;
+  
+}
+
+.roes{
+   display: flex;
+   flex-direction: column;
+}
+.row1{
+   flex-direction: row;
+   height: 180px ;
+   width: 250px;
+
+   display: flex;
+  
+}
+.one{
+   display: flex;
+   
+   height: 120px;
+  
+   margin: 10px 10px 10px 10px;
+   width: 120px;
+   flex-direction: column;
+   
+   
+}
+.imgg{
+   width: 110px;
+   height: 90px
+   
+   
+
+}
+.imgg:hover{
+   cursor: pointer;
+}
+.text{
+   margin: 0px 0px 0px 0px;
+   transition: font-size 1s;
+
+   
+}
+.text:hover{
+   cursor: pointer;
+   font-size: 20px;
+}
+.dv{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: black;
+}
+.two{
+   display: flex;
+   
+   height:120px;
+
+   margin: 10px 10px 10px 10px;
+   width: 110px;
+   flex-direction: column;
+}
+
+.xc{
+   width: 110px;
+   height: 90px;
+
+}
+.xc:hover{
+   cursor: pointer;}
+.im{
+   width: 100px;
+   height: 90px;
+   
+}
+
+.im:hover{
+   cursor: pointer;}
+.kk{
+   margin: 0px 0px 0px 0px;
+   transition: font-size 1s;
+   
+   }
+
+
+.kk:hover{
+cursor: pointer;
+font-size: 20px;
+}
+.ppppp{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: black;
+}
+
+.sd{
+   width: 100px;
+   height: 90px;
+  
+
+}
+
+.sd:hover{
+   cursor: pointer;}
+
+.row2{
+   flex-direction: row;
+   height: 180px;
+   flex: 1;
+  
+  
+   display: flex;
+}
+.three{
+   display: flex;
+   flex: 1;
+   height: 120px;
+  
+   margin: 10px 10px 10px 10px;
+   flex-direction: column;
+}
+
+.four{
+   display: flex;
+   flex: 1;
+   height: 120px;
+  
+   margin: 10px 10px 10px 10px;
+   flex-direction: column;
+}
+
+.ekrow{
+   display: flex;
+   flex-direction: row;
+   height: 400px;
+   flex: 1;
+   justify-content: space-between;
+   margin-top: 30px;
+   background-color: lightgray
+
+}
+
+.nigga{
+   
+  
+   height: 400px;
+   width: 300pxpx;
+   left: 20px;
+   background-color: red;
+   
+   
+
+
+}
+
+.nigga1{
+   background-color:lightslategray;
+   height:60%;
+   width: 300px;
+   object-fit: contain;
+}
+.nigga2{
+
+   background-color:lightslategray;
+   height: 20%;
+   width:300px ;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bold;
+
+}
+
+.nigga3{
+   height: 20%;
+   width: 300px;
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: bold;
+   
+   
+   background-color:lightslategray;
+}
+
+.ikl{
+   width: 300px;
+   
+   
+}
+.ikl:hover{
+   cursor: pointer;
+  
+}
+
+.m{
+   color: white;
+   background-color: red;
+   margin-right: 6px;
+   padding: 6px 8px 6px 8px;
+   
+}
+
+
+.signin{
+   
+   
+   height: 400px;
+   width: 300px;
+   left: 20px;
+   background-color: red;
+   
+
+}
+
+.roz1{
+   display: flex;
+   width: 300px;
+   height: 40%;
+   background-color:lightgray;
+   flex-direction: column;
+}
+
+.mol{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 300px;
+   height: 50px;
+
+
+}
+
+
+
+
+.button{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 300px;
+   height: 50px;
+   
+
+
+   
+}
+
+.nine{
+
+   background-color: yellow;
+   padding: 8px 20px 8px 20px;
+   border-radius: 20px;
+   transition: background-color 1s;
+   
+   
+
+}
+.nine:hover{
+   cursor: pointer;
+   background-color: rgb(142, 142, 12);
+}
+
+.roz2{
+   font-size: 30px;
+   display: flex;
+   align-items: center;
+
+   height: 60%;
+   width: 290px;
+   background-color: lightblue;
+   padding-left: 10px;
+
+}
+
+.rol3{
+   display: flex;
+   flex-direction: row;
+   height: 500px;
+   flex: 1;
+   justify-content: space-between;
+   margin-top: 30px;
+   background-color: pink
+
+}
+
+
+
